@@ -39,30 +39,9 @@ Además, he creado agentes de IA con Python y participé en la migración de una
 
 ---
 
-## 💼 Experiencia Profesional
-
-### 🤖 Starty 
-*Desarrollador Full Stack* – (04/2024 – Actualidad)  
-- Desarrollo de un dashboard y chatbot de IA usando Next.js
-- Desarrollo de landing's pages usando Vite/React.js.
-- Contenerización de la aplicación con Docker.
-- Desarrollo de modelos de agentes autónomos y sistemas multi-agente utilizando Python.
-- Adaptación de script de Python para crear un API RESTful con Flask para la integración de modelos de IA.
-
-### 🔐 FIIIDT – Centro de Seguridad Informática y Certificación Electrónica  
-*Desarrollador* – (10/2022 – 03/2024)  
-- Diseño y creación de bases de datos.
-- Desarrollo front-end de sistemas en Next.js.
-- Mantenimiento de código existente en Java.
-- Creación de prototipos y diseño de interfaces de usuario en Figma.
-- Soporte y mantenimiento de microservicios desarrollados en Node(Nest.js con Prisma).
-- Migración de una herramienta de firmas digitales de Java a Python para sistemas Windows y Linux.
-
----
-
 ## 🌱 Actualmente aprendiendo
 
-- Java
+- Nest.js
 - Inglés (B1 a B2)
 
 ---
@@ -77,11 +56,11 @@ Además, he creado agentes de IA con Python y participé en la migración de una
 ## 🌐 Socials
 [![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://racdev-portfolio.vercel.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/racdeveloper/)
-<!-- [![x](https://img.shields.io/badge/X-000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/)
-[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/) -->
-<!-- [![tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/) -->
+[![x](https://img.shields.io/badge/X-000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/racdeveloperr)
+[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@racdeveloper)
+[![tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@racdeveloper)
 
-📫 **Email:** soyracm@gmail.com  
+📫 **Email:** racdeveloper.contact@gmail.com 
 📍 Caracas, Venezuela
 
 ---
