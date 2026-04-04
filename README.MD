@@ -55,7 +55,7 @@ Además, he creado agentes de IA con Python y participé en la migración de una
 
 ## 🌐 Socials
 [![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://racdev-portfolio.vercel.app/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/racdeveloper/)
+[![linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/racdeveloper/)
 [![x](https://img.shields.io/badge/X-000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/racdeveloperr)
 [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@racdeveloper)
 [![tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@racdeveloper)
