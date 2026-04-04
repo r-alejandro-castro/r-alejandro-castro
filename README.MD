@@ -59,6 +59,7 @@ Además, he creado agentes de IA con Python y participé en la migración de una
 [![x](https://img.shields.io/badge/X-000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/racdeveloperr)
 [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@racdeveloper)
 [![tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@racdeveloper)
+[![instagram](https://img.shields.io/badge/Instagram-F58529?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/racdeveloper/)
 
 📫 **Email:** racdeveloper.contact@gmail.com 
 📍 Caracas, Venezuela
