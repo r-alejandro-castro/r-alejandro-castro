@@ -7,7 +7,7 @@
 
 ## 🚀 Sobre Mi
 
-🧠 Me especializo en la creación de interfaces de usuario modernas utilizando Next.js y Astro. Tengo experiencia en el desarrollo de back-end con Python y Node.js, lo que me permite participar en el ciclo de vida completo del software.
+🧠 Me especializo en la creación de interfaces de usuario modernas utilizando Next.js y Astro. Tengo experiencia en el desarrollo de back-end con Nest.js, lo que me permite participar en el ciclo de vida completo del software.
 
 Además, he creado agentes de IA con Python y participé en la migración de una herramienta de firmas digitales de Java a Python para sistemas Windows y Linux.
 
